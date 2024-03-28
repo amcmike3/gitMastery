@@ -1,7 +1,14 @@
+# Git Manipulator
+
 If you have some cool Git manipulation Ideas create a PR and add them to the list of [future implementations](./todo.md).
-Additionally we would love if you contributed and implemented any of the ideas on the [future implementation list](./todo.md).
+Additionally we would love if you contributed and implemented any of the ideas on the [future implementation list](./todo.md) Please include a short explaination of it on this README.md.
+
+## PreRequisites:
+ - [python installed](https://www.python.org/downloads/)
+ - GitPython installed `pip install gitpython`
+
 ## Retroactive Commits
-This repo was created to make git commits retroactively starting from a given date back one year (365 days).
+This repo was originally created to make git commits retroactively starting from a given date back one year (365 days).
 
 In order to use this repo 3 things must be changed.
 
