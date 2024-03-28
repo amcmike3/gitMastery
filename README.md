@@ -4,8 +4,8 @@ If you have some cool Git manipulation Ideas create a PR and add them to the lis
 Additionally we would love if you contributed and implemented any of the ideas on the [future implementation list](./todo.md) Please include a short explaination of it on this README.md.
 
 ## PreRequisites:
- - [python installed](https://www.python.org/downloads/)
- - GitPython installed `pip install gitpython`
+ - [Python instalation](https://www.python.org/downloads/)
+ - GitPython package instalation. Use this command to install: `pip install gitpython`
 
 ## Retroactive Commits
 This repo was originally created to make git commits retroactively starting from a given date back one year (365 days).
