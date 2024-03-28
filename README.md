@@ -1,7 +1,7 @@
 # Git Manipulator
 
 If you have some cool Git manipulation Ideas create a PR and add them to the list of [future implementations](./todo.md).
-Additionally we would love if you contributed and implemented any of the ideas on the [future implementation list](./todo.md) Please include a short explaination of it on this README.md.
+Additionally we would love if you contributed and implemented any of the ideas on the [future implementation list](./todo.md) Please include a short explaination of your implementation on this README.md.
 
 ## PreRequisites:
  - [Python instalation](https://www.python.org/downloads/)
